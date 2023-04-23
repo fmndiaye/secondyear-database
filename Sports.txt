@@ -1,0 +1,9 @@
+nom,individuel
+Athletisme,TRUE
+Basket,FALSE
+Cyclisme,TRUE
+Football,FALSE
+Golf,TRUE
+Halterophilie,TRUE
+Handball,FALSE
+Natation,TRUE

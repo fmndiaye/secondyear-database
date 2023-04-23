@@ -1,0 +1,13 @@
+nom,nationalite,sexe,domaine
+FootballA-H,1,Homme,4
+FootballA-F,1,Femme,4
+FootballF-H,6,Homme,4
+FootballF-F,6,Femme,4
+HandballF-H,6,Homme,7
+HandballF-F,6,Femme,7
+HandballA-H,1,Homme,7
+HandballD-H,22,Homme,7
+HandballN-F,23,Femme,7
+HandballR-F,15,Femme,7
+HandballPA-F,13,Femme,7
+HandballP-H,24,Homme,7

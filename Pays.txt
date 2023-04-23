@@ -1,0 +1,25 @@
+nom,continent
+Allemagne,Europe
+Belgique,Europe
+Chine,Asie
+Espagne,Europe
+Etats-Unis,Amerique
+France,Europe
+Grande-Bretagne,Europe
+Italie,Europe
+Jamaique,Amerique
+Canada,Amerique
+Afrique Du Sud,Afrique
+Grenade,Amerique
+Pays-Bas,Europe
+Bahamas,Amerique
+Russie,Asie-Europe
+Kenya,Afrique
+Ethopie,Afrique
+Australie,Oceanie
+Hongrie,Europe
+Singapour,Asie
+Japon,Asie
+Danemark,Europe
+Norvege,Europe
+Pologne,Europe

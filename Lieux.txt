@@ -1,0 +1,6 @@
+nom, indice
+Stade d'athletisme,10
+Chemin Marathon,30
+Piscine Olympique,10
+Terrain de Handball,4
+Terrain de Football,5
